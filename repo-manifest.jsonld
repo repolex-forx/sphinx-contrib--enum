@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/enum/commit/9e0ac3197e2a937c5b755686d967a00aa787d889",
       "git:hexsha": "9e0ac3197e2a937c5b755686d967a00aa787d889",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.3.1"
     },
     {
